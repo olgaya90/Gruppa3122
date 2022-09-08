@@ -1,0 +1,15 @@
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\bin\Debug\net6.0\Sem2Task11.exe
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\bin\Debug\net6.0\Sem2Task11.deps.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\bin\Debug\net6.0\Sem2Task11.runtimeconfig.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\bin\Debug\net6.0\Sem2Task11.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\bin\Debug\net6.0\Sem2Task11.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.csproj.AssemblyReference.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.AssemblyInfoInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.AssemblyInfo.cs
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.csproj.CoreCompileInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\refint\Sem2Task11.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\Sem2Task11.genruntimeconfig.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task11\obj\Debug\net6.0\ref\Sem2Task11.dll
