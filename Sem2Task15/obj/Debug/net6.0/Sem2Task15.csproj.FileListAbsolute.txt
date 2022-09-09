@@ -1,0 +1,15 @@
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\bin\Debug\net6.0\Sem2Task15.exe
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\bin\Debug\net6.0\Sem2Task15.deps.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\bin\Debug\net6.0\Sem2Task15.runtimeconfig.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\bin\Debug\net6.0\Sem2Task15.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\bin\Debug\net6.0\Sem2Task15.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.csproj.AssemblyReference.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.AssemblyInfoInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.AssemblyInfo.cs
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.csproj.CoreCompileInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\refint\Sem2Task15.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\Sem2Task15.genruntimeconfig.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem2Task15\obj\Debug\net6.0\ref\Sem2Task15.dll
