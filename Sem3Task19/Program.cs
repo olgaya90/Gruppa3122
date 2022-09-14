@@ -3,48 +3,48 @@
 //===================================================================================================
 //чтение данных из консоли
 
+//запрос данных у пользователя
 int ReadData(string line)
 {
     //выводим сообщение
-    Console.WriteLine(line);
+    Console.Write(line);
     //считываем число
     int numberB = int.Parse(Console.ReadLine() ?? "0");
-    //возвращаем значение
     return numberB;
+    //возвращаем значение
+}
 
 
+bool TestPolin(int numberB)
+{
+    if (((numberB / 10000) == (numberB % 10)) && (numberB / 1000) % 10 == ((numberB / 10) % 10))
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
+    Console.WriteLine("введите число");
+    return false;
 
 }
-bool TestPolin(int numberB, int rev, int Count)
+
+void PrintResult(bool res)
 {
-    rev = 0;
-    Count = 0;
-    while (numberB > 9999 && numberB < 100000)
-    {
-        numberB = numberB / 10;
-        rev = rev * 10 + numberB % 10;
-        Count++;
-    }
-    Console.WriteLine(Count);
-    if (numberB == rev)
+    if (res)
     {
         Console.WriteLine("Число является палиндромом");
     }
     else
-    {
-        numberB = numberB * 10 + numberB % 10;
-        if (rev == numberB)
-            Console.WriteLine("Число является палиндромом");
-        else
-            Console.WriteLine("Число не является палиндромом");
-
-    }
-
-
-
+        Console.WriteLine("Число не является палиндромом");
 
 }
-Console.ReadLine();
+
+int numberB = ReadData("введите число:");
+bool res = TestPolin(numberB);
+PrintResult(res);
+
 
 
 
