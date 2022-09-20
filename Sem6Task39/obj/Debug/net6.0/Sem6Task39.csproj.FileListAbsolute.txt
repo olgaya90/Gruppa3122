@@ -1,0 +1,15 @@
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\bin\Debug\net6.0\Sem6Task39.exe
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\bin\Debug\net6.0\Sem6Task39.deps.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\bin\Debug\net6.0\Sem6Task39.runtimeconfig.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\bin\Debug\net6.0\Sem6Task39.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\bin\Debug\net6.0\Sem6Task39.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.csproj.AssemblyReference.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.AssemblyInfoInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.AssemblyInfo.cs
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.csproj.CoreCompileInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\refint\Sem6Task39.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\Sem6Task39.genruntimeconfig.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem6Task39\obj\Debug\net6.0\ref\Sem6Task39.dll
