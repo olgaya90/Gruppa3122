@@ -52,11 +52,11 @@ int EvenCount(int[] array)
     int count = 0;
     for (int i = 0; i < array.Length; i++)
     {
-        if ((array[i] > 100) && (array[i] < 999))
-        {
+        
+        
             if (array[i] % 2 == 0)
                 count++;
-        }
+    
        
     }
     return count;
@@ -69,7 +69,7 @@ void PrintResult(string line)
     Console.WriteLine(line);
 }
 
-int[] array = FillArray(50, 1, 100);
+int[] array = FillArray(50, 100, 1000);
 int downBoreder = ReadData("Введите нижнюю границу заполнения массива: ");
 int topBorder = ReadData("Введите верхнюю границу заполнения массива: ");
 
