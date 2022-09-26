@@ -1,0 +1,15 @@
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.csproj.AssemblyReference.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.AssemblyInfoInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.AssemblyInfo.cs
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.csproj.CoreCompileInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\bin\Debug\net6.0\Sem8Task56.exe
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\bin\Debug\net6.0\Sem8Task56.deps.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\bin\Debug\net6.0\Sem8Task56.runtimeconfig.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\bin\Debug\net6.0\Sem8Task56.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\bin\Debug\net6.0\Sem8Task56.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\refint\Sem8Task56.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\Sem8Task56.genruntimeconfig.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem8Task56\obj\Debug\net6.0\ref\Sem8Task56.dll
