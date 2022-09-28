@@ -1,0 +1,15 @@
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.csproj.AssemblyReference.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.AssemblyInfoInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.AssemblyInfo.cs
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.csproj.CoreCompileInputs.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\bin\Debug\net6.0\Sem9Task66.exe
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\bin\Debug\net6.0\Sem9Task66.deps.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\bin\Debug\net6.0\Sem9Task66.runtimeconfig.json
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\bin\Debug\net6.0\Sem9Task66.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\bin\Debug\net6.0\Sem9Task66.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\refint\Sem9Task66.dll
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.pdb
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\Sem9Task66.genruntimeconfig.cache
+C:\Users\Давид\Desktop\Новая папка\Gruppa3122\Sem9Task66\obj\Debug\net6.0\ref\Sem9Task66.dll
